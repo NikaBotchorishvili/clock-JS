@@ -1,0 +1,20 @@
+body {
+  background: linear-gradient(45deg, #9B7380, #825C69, #75515D, #684551);
+  font-family: sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  color: rgba(235, 41, 27, 0.596);
+  display: -ms-grid;
+  display: grid;
+  height: 90%;
+  place-items: center;
+}
+
+#clock {
+  padding: 15 25;
+  border: 5px solid black;
+}
+/*# sourceMappingURL=style.css.map */
